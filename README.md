@@ -91,3 +91,5 @@ Set Environment:
 base_url = http://127.0.0.1:8000/api
 
 Use {{access_token}} for Authorization
+
+https://.postman.co/workspace/My-Workspace~652cd628-b61c-437e-88dc-d4908f8dd2ed/collection/26984432-ef31bf4b-0343-492d-b883-1d9c16bbded9?action=share&creator=26984432&active-environment=26984432-9eec8504-c039-422c-a884-90d4315e0b48
